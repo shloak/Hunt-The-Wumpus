@@ -1,0 +1,96 @@
+Which programming language was created first?
+Java
+Python
+C
+C#
+B
+Which language is named after the world's first programmer?
+Eiffel
+Perl
+Ada
+Candle
+C
+What was Java called before it was Java?
+Maple
+Oak
+Snoo
+C++ 2.0
+B
+In what year was the specification for the COBOL language created?
+1929
+1942
+1952
+1959
+D
+What is the name of the Java mascot?
+Duke
+Mr. Coffee
+Java
+Steamy
+A
+True or False: In Java, all non-static methods are by default virtual functions?
+True
+False
+ 
+ 
+A
+Which was originally built as an add-on library to the Yahoo! User Interface Library?
+Dojo Toolkit
+ExtJSjQuery
+MochiKit
+
+B
+Which famous computer scientist killed himself by eating a poisoned apple?
+Alan Turing
+Bjarne Stroustrup
+Donald Knuth
+Edsger Dijkstra
+A
+What programming language did Bjarne Stroustrup create?
+C++
+C#
+Java
+Python
+A
+What was the first song ever sung by a computer?
+Daisy Bell
+Happy Birthday
+Mary Had a Little Lamb
+Twinkle Twinkle Little Star
+A
+Who founded the Free Software Foundation?
+Bill Gates
+Linus Torvalds
+Richard Stallman
+Steve Jobs
+C
+In 2010, which job did CNN rank as the #1 "Best Job in America"?
+Database Administrator
+Information Technology Manager
+Programmer Analyst
+Software Architect
+D
+Who is the creator of the JavaScript scripting language?
+Brendan Eich
+Guido van Rossum
+John Ousterhout
+Larry Wall
+A
+C# References most closely resemble
+Java primitives
+C Structs
+C Pointers
+C Functions
+C
+What do all LOLCODE Programs start with?
+int main(void)
+HAI
+HELLOS
+LOL
+B
+What are the eight symbols used in the language BrainF***?
+^ % # $ £ ` & *
+. , # % $ ~ ` )
+( ) [ ] , . @ #
+. , > < + - [ ]
+D

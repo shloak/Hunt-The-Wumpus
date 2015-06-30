@@ -1,0 +1,8 @@
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\bin\Debug\Hunt the Wumpus.exe.config
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\bin\Debug\Hunt the Wumpus.exe
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\bin\Debug\Hunt the Wumpus.pdb
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\obj\Debug\Hunt the Wumpus.csprojResolveAssemblyReference.cache
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\obj\Debug\Hunt the Wumpus.exe
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\obj\Debug\Hunt the Wumpus.pdb
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\obj\Debug\Hunt_the_Wumpus.Game.resources
+C:\Users\Shloak\Source\Workspaces\Hunt The Wumpus\Hunt the Wumpus\Hunt the Wumpus\obj\Debug\Hunt the Wumpus.csproj.GenerateResource.Cache
